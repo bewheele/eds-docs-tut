@@ -1,6 +1,6 @@
 {
     "project": "franklin-asset-selector",
-    "host": "www.mymydomain.prod",
+    "host": "https://author-p152350-e1583075.adobeaemcloud.com/",
     "plugins": [
         {
             "id": "asset-library",
