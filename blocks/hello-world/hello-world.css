@@ -1,0 +1,4 @@
+.hello-world-wrapper {
+  font-size: var(--body-font-size-l);
+  text-transform: uppercase;
+}
